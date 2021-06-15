@@ -48,6 +48,7 @@ To find out more about how you can contribute, please read our [contributing gui
 * [Rachel Moser](https://github.com/rlmoser99)
 * [Grace Schwartz](https://github.com/CatQueenCodes)
 * [Tatiana Walton](https://github.com/twalton83)
+* [Lenin Mazabanda](https://github.com/leninner)
 
 ---
 Created by [Erik Trautman](http://www.github.com/eriktrautman)
